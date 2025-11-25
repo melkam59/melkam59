@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **melkamuelias59@gmail.com**
 
-- 🔗 Portfolio / Website *(coming soon)*  
+  
 - 🔗 LinkedIn: https://linkedin.com/in/melkamu-elias-556701185
 
 
