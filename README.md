@@ -1,28 +1,56 @@
-<h1 align="center">Hi 👋, I'm Melkam</h1>
-<h3 align="center">A Full-stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Melkamu Elias</h1>
+<h3 align="center">Full-stack Developer | Backend-Focused | Cloud-Ready</h3>
 
-# Technical skills
-## Technologies
-  Web, Nodejs, Typescript, Go
+---
 
-## Frameworks
-  React, Nextjs, Nest.js, Go 
+## 🚀 About Me
+I'm a passionate Full-stack Developer based in Addis Ababa, Ethiopia, specializing in building scalable backend systems, high-quality frontend applications, and cloud-native solutions. I enjoy working with modern frameworks, microservices architectures, and performance-driven development.
 
-## Tools
-VScode, Github, Yarn, Git, NPM, Pypi, Azure, Heroku, CI, Docker, Bash
+- 🔭 Currently working at **Zagaol** (Lifestyle Fulfillment Startup) as a **Backend Developer**
+- 🌍 Open to remote opportunities
+- 📫 Reach me at: **melkamuelias59@gmail.com**
+- 🧑‍💻 All my projects: **https://github.com/melkam59**
+- 💼 LinkedIn: **https://linkedin.com/in/melkamu-elias-556701185**
 
-## Additional Experience
-Application Deployment, Database Management, Unit Testing, Linux, Team Programming, Pair Programming, REST API, NOSQL
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- JavaScript, TypeScript, CSS, TailwindCSS  
+- React.js, Next.js, Vue.js, Nuxt  
+- Redux, Zustand, React Query, RTK  
+- MUI, Shadcn/UI  
+
+### **Backend**
+- Node.js, Express.js, NestJS  
+- Go (Golang), Fiber, gRPC  
+- tRPC, Prisma, Drizzle ORM  
+- Redis, NGINX, Kafka  
+- Microservices, Event-Driven Architecture  
+
+### **Databases**
+- PostgreSQL, MongoDB, MySQL, RxDB  
+
+### **Cloud / DevOps**
+- Azure, AWS, Digital Ocean  
+- Docker, Kubernetes, CI/CD  
+
+### **BAAS**
+- Firebase, Appwrite, Supabase  
+
+### **Testing**
+- Vitest, Mocha, SuperTest  
+
+### **Mobile**
+- React Native  
+
+---
 
 
----------------------------------------------------------------------------------
-- 👨‍💻 All of my projects are available at [https://github.com/coramdeo59](https://github.com/coramdeo59)
 
-- 📫 How to reach me **melkamuelias59@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect with Me
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/snoopy5969?t=cwd8jwgeuiltvbb_o21w&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/snoopy5969?t=cwd8jwgeuiltvbb_o21w&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/melkamu-elias-556701185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/melkamu-elias-556701185" height="30" width="40" /></a>
+<a href="https://twitter.com/snoopy5969" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/melkamu-elias-556701185" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
-
