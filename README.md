@@ -1,56 +1,70 @@
 <h1 align="center">Hi 👋, I'm Melkamu Elias</h1>
-<h3 align="center">Full-stack Developer | Backend-Focused | Cloud-Ready</h3>
+<h3 align="center">Full-stack Developer | Backend-Focused | Cloud & Distributed Systems Enthusiast</h3>
 
----
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=melkam59&label=Profile%20views&color=0e75b6&style=flat" alt="melkam59" /> 
+</p>
 
-## 🚀 About Me
-I'm a passionate Full-stack Developer based in Addis Ababa, Ethiopia, specializing in building scalable backend systems, high-quality frontend applications, and cloud-native solutions. I enjoy working with modern frameworks, microservices architectures, and performance-driven development.
+- 💻 I work with **Node.js, Go, TypeScript, React/Next.js, NestJS, Docker, Kubernetes, and Cloud services**
 
-- 🔭 Currently working at **Zagaol** (Lifestyle Fulfillment Startup) as a **Backend Developer**
-- 🌍 Open to remote opportunities
-- 📫 Reach me at: **melkamuelias59@gmail.com**
-- 🧑‍💻 All my projects: **https://github.com/melkam59**
-- 💼 LinkedIn: **https://linkedin.com/in/melkamu-elias-556701185**
+- 👨‍💻 All my projects live here: **https://github.com/melkam59**
 
----
+- 🤝 I collaborate on **full-stack, backend, microservices, and cloud projects**
 
-## 🛠️ Tech Stack
+- 🚀 Interested in **distributed systems, event-driven microservices, infrastructure, and DevOps**
 
-### **Frontend**
-- JavaScript, TypeScript, CSS, TailwindCSS  
-- React.js, Next.js, Vue.js, Nuxt  
-- Redux, Zustand, React Query, RTK  
-- MUI, Shadcn/UI  
+- 📫 Reach me at **melkamuelias59@gmail.com**
 
-### **Backend**
-- Node.js, Express.js, NestJS  
-- Go (Golang), Fiber, gRPC  
-- tRPC, Prisma, Drizzle ORM  
-- Redis, NGINX, Kafka  
-- Microservices, Event-Driven Architecture  
-
-### **Databases**
-- PostgreSQL, MongoDB, MySQL, RxDB  
-
-### **Cloud / DevOps**
-- Azure, AWS, Digital Ocean  
-- Docker, Kubernetes, CI/CD  
-
-### **BAAS**
-- Firebase, Appwrite, Supabase  
-
-### **Testing**
-- Vitest, Mocha, SuperTest  
-
-### **Mobile**
-- React Native  
-
----
+- 🔗 Portfolio / Website *(coming soon)*  
+- 🔗 LinkedIn: https://linkedin.com/in/melkamu-elias-556701185
 
 
-
-## 🤝 Connect with Me
+## 🧰 Languages and Tools
 <p align="left">
-<a href="https://twitter.com/snoopy5969" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/melkamu-elias-556701185" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+
+  <!-- Cloud / DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+<hr>
+
+## 🔗 Connect with Me
+<p align="left">
+<a href="https://twitter.com/snoopy5969" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/melkamu-elias-556701185" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+<hr>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melkam59&" alt="melkam59" />
 </p>
